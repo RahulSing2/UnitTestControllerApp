@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/UnitTestControllerApp
+/UnitTest/bin/Debug/net5.0
+/UnitTest/obj
+/UnitTestControllerApp/bin/Debug/net5.0
+/UnitTestControllerApp/obj/Debug/net5.0/Razor/Views
+/UnitTestControllerApp/Properties
+/UnitTestControllerApp/wwwroot
